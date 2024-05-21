@@ -2,4 +2,6 @@ Tocar Violão
 Correr
 Caminhar
 Comer
+Jogar
+Cantar
 Dormir
